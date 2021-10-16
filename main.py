@@ -108,6 +108,6 @@ async def cmd(ctx):
 @bot.event
 async def on_ready():
     print(f'{bot.user} is online')
-bot.run('ODk4ODQzMTcyMzI5ODkzOTA4.YWqG7w.wqyEXSLAaEXlsMX5Ljtfwd5H57g')
+bot.run(' ')
 
 
