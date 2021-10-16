@@ -9,7 +9,7 @@ This is a discord bot coded in Python which shows news regarding the term the us
 
 * Discord.py
 * GoogleNews
-* discor-slash-command
+* discord-slash-command
 
 # Hosting
 
