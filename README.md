@@ -1,6 +1,7 @@
 # Noah Miller v1.0
 a discord bot coded in Python which shows news based on the term searched by the user
 
+# [Add the bot to your server](https://discord.com/api/oauth2/authorize?client_id=898497859257769984&permissions=0&scope=bot%20applications.commands)
 # About
 
 This is a discord bot coded in Python which shows news regarding the term the user searches. The bot displays the 10 most relevant news links regarding the topic searched. 
