@@ -39,6 +39,6 @@ Commands
 
 # What can you expect in the future updates:
 
-> There is a plan to add a weather API feature in the bot, which tells the weather of the city searched as well as some other API related feautures like live crypto price and etc. Slash commands are also underwork, slash commands have been implemented in this version of the bot if you check the code, but there is nothing special with them, as they are unstable and most of the times fail to deliver the output of the command used. If this thing gets a fix, maybe I will migrate the whole bot to slash commands in the future. 
+> There is a plan to add a weather API feature in the bot, which tells the weather of the city searched as well as some other API related features like live crypto price and etc. Slash commands are also underwork, slash commands have been implemented in this version of the bot if you check the code, but there is nothing special with them, as they are unstable and most of the times fail to deliver the output of the command used. If this thing gets a fix, maybe I will migrate the whole bot to slash commands in the future. 
 
 # Made with ❤️ by Klevr
